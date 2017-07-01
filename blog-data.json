@@ -4,6 +4,6 @@
       {"index":1,"title":"ES6介绍","url":"content/ES%206/1-es6.md","detail":"ECMAScript 6.0（以下简称 ES6）是 JavaScript 语言的下一代标准，已经在2015年6月正式发布了。它的目标，是使得 JavaScript 语言可以用来编写复杂的大型应用程序，成为企业级开发语言。","time":"2017 / 01 /14"},
       {"index":2,"title":"ES6数组扩展","url":"content/ES%206/array.md","detail":"简单介绍ES6新增的方法，记载使用方法。","time":"2017 / 04 /14"},
       {"index":3,"title":"ES6箭头函数","url":"content/ES%206/callback.md","detail":"箭头函数简化了函数的的定义方式，极大的简化开发者劳动力","time":"2017 / 03 /14"},
-      {"index":4,"title":"gitbook","url":"content/ES%206/object.md","detail":"ES6常用对象操作整理...","time":"2017 / 02 /14"}
+      {"index":4,"title":"ES6对象扩展","url":"content/ES%206/object.md","detail":"ES6常用对象操作整理...","time":"2017 / 02 /14"}
     ]
   }
